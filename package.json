@@ -1,7 +1,7 @@
 {
-  "name": "nodejs-hello-world",
+  "name": "nodejs-hello-world isa",
   "version": "1.0.0",
-  "description": "nodejs-hello-world",
+  "description": "nodejs-hello-world isa",
   "main": "index.js",
   "scripts": {"start": "node ./index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
